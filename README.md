@@ -16,6 +16,7 @@ Training Details
 - Batch size: 4
 - Dataset Format: `ImageFolder` with at least one subfolder (e.g. `fake_class`)
 - Output folder: `outputs/generated/`
-![image](https://github.com/user-attachments/assets/5b2d28ab-9578-4c7b-8607-af21a43d2980)  ![image](https://github.com/user-attachments/assets/90ed92ca-8018-44c0-a64a-c806b5f32a5a)  
+![image](https://github.com/user-attachments/assets/5b2d28ab-9578-4c7b-8607-af21a43d2980)
+![image](https://github.com/user-attachments/assets/90ed92ca-8018-44c0-a64a-c806b5f32a5a)  
 ![image](https://github.com/user-attachments/assets/409e806f-3fa8-4d6e-8d38-f6aa9f7bd292)
 
